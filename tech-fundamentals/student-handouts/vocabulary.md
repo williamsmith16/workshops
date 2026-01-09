@@ -1,7 +1,6 @@
-# Tech Fundamentals Vocabulary Mission
+<link rel="stylesheet" href="../assets/style/print.css">
 
-LTS-BOT collected some new words during the workshop. Use the word bank to fill
-in the blanks and help LTS-BOT remember what each term means.
+# Tech Fundamentals Vocabulary
 
 ## Word Bank
 
@@ -44,4 +43,4 @@ Keep it simple enough that a friend who missed the workshop would get it.
 2) Term: ____________________ | Your explanation: ____________________________
 
 Bonus: Draw a quick sketch of how a file lives inside a folder on your device.
-Label which part is hardware and which part is software.
+Describe layers of hardware and software that make this possible.
