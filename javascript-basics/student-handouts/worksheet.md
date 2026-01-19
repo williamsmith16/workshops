@@ -8,7 +8,7 @@ print_friendly: true
 
 # JavaScript Basics Mission Worksheet
 
-Your guide: LTS-BOT. Use this sheet to capture notes, fill in blanks, and keep
+Use this sheet to capture notes, fill in blanks, and keep
 track of what you learned today. No perfect answers needed; curiosity wins.
 
 ## 1) Warm-Up Check-In

@@ -11,8 +11,8 @@ title: Youth Tech Workshops
 
 A series of five 2-hour technology workshops for students ages **12–14** with minimal prior programming experience. Workshops mix instruction and hands-on work, slightly build on one another, but are designed to be **primarily independent** so students may join at any point.
 
-**Branding:** Lansing Tech Studio  
-**Theme:** Robot persona ("LTS-BOT") guiding students through missions  
+**Branding:** Lansing Tech Studio  \
+**Theme:** Robot persona ("Lansing Techster" or just "Techster") is learning alongside students, and they help each other figure things out. \
 **Platforms:** Windows laptops (primary), Chromebooks (secondary)
 
 ---
@@ -176,7 +176,7 @@ Includes:
 
 ## 9. Tone, Theme, and Motivation
 
-### Robot Persona: LTS-BOT
+### Robot Persona: Lansing Techster
 
 - Curious, literal, encouraging
 - Frames bugs as "sensor data"

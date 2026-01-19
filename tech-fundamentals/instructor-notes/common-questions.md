@@ -8,7 +8,7 @@ section: Instructor Notes
 # Common Questions & Friendly Answers
 
 Use simple language first; add detail only if a student asks for more. Keep the
-tone curious and encouraging; LTS-BOT is learning with them.
+tone curious and encouraging; Techster is learning with them.
 
 - **"What's the difference between hardware and software?"**  
   Hardware is what you can touch (keyboard, screen); software is the

@@ -63,4 +63,4 @@ Write what each command does and, if you try it, the output you saw.
 
 - One thing that felt new or surprising: ____________________________________
 - One thing I want to practice next: ________________________________________
-- Question I'd ask LTS-BOT if I had 10 more minutes: ________________________
+- Question I'd ask if I had 10 more minutes: ________________________________
