@@ -34,7 +34,7 @@ print_friendly: true
 
 ## Quick Checks
 
-- Circle the HTML input types we used: `input` / `textarea` / `select` / `img`
+- Circle the HTML input types we used: <br>`input` / `textarea` / `select` / `img`
 - Match the role (left side) to the language (right side):
 
 <div>

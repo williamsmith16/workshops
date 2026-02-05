@@ -22,7 +22,7 @@ Fill in the blanks.
 
 - HTML is the <span class="blank-line-short"></span> of a web page.
 - A `label` uses the <span class="blank-line-short"></span> attribute to connect to an input.
-- A <span class="blank-line-short"></span> is for short text; a <span class="blank-line-short"></span> is for longer messages.
+- An <span class="blank-line-short"></span> is for short text; a <span class="blank-line-short"></span> is for longer messages.
 
 ## 3) CSS Style Notes
 
@@ -46,6 +46,7 @@ Write the missing pieces:
 const titleInput = document.querySelector("#titleInput");
 const updatePreview = () => {
   // update text here
+
 };
 
 titleInput.addEventListener("________", updatePreview);

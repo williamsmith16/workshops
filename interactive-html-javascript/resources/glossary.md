@@ -34,6 +34,8 @@ JavaScript can read and change.
 
 **textarea:** A form control for longer, multi-line text.
 
+**textContent:** A JavaScript property used to get or set the text inside an element.
+
 **select:** A form control that lets users pick from a dropdown list.
 
 **class:** A label used in HTML and CSS for styling groups of elements.

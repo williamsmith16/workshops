@@ -8,8 +8,7 @@ section: Instructor Notes
 # Interactive HTML + JavaScript Timing Guide (2 Hours)
 
 **Audience**: 12-14 year-olds, beginners or returning from JavaScript Basics. \
-**Goal**: connect HTML inputs to JavaScript and update the DOM in real time. \
-Keep the energy upbeat; celebrate small wins and frequent refreshes.
+**Goal**: connect HTML inputs to JavaScript and update the DOM in real time.
 
 ## 0:00-0:10 - Welcome & Web Interactions Icebreaker
 
