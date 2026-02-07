@@ -34,7 +34,7 @@
 				data-background-opacity="0.7" data-background-repeat="no-repeat"
 				data-background-position="center center">
 				<h2 class="outlined">Game Engine Tools</h2>
-				<p class="outlined">Godot (Web Editor)</p>
+				<p class="outlined">With Godot 4.6</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
@@ -69,7 +69,7 @@
 					</ul>
 				</section>
 				<section>
-					<h2>Today’s Project</h2>
+					<h2>Today's Project</h2>
 					<p>A tiny 2D platformer</p>
 					<ul>
 						<li>You can move + jump</li>
@@ -118,7 +118,6 @@
 						<li>Player can move left/right</li>
 						<li>Player can jump</li>
 						<li>Coins disappear on touch</li>
-						<li>No score shown</li>
 					</ul>
 				</section>
 			</section>
@@ -137,7 +136,7 @@
 					<ul>
 						<li>Coins are usually an Area2D</li>
 						<li>On contact: remove the coin</li>
-						<li>Today: we’ll add scoring on top</li>
+						<li>Today: we'll add scoring on top</li>
 					</ul>
 				</section>
 			</section>
@@ -153,9 +152,9 @@
 					</ul>
 				</section>
 				<section>
-					<h3>GDScript Hint</h3>
+					<h3>Changing Animations</h3>
 					<p>Think: velocity + “on the floor”</p>
-					<pre><code data-trim class="language-gdscript">
+					<pre><code data-trim class="language-python">
 if not is_on_floor():
   animated_sprite.play("jump")
 elif abs(velocity.x) > 1:
@@ -177,13 +176,14 @@ else:
 					</ul>
 				</section>
 				<section>
-					<h3>Flip Hint</h3>
-					<pre><code data-trim class="language-gdscript">
+					<h3>Flipping the Sprite</h3>
+					<pre><code data-trim class="language-python">
 if velocity.x > 0:
   animated_sprite.flip_h = false
 elif velocity.x < 0:
   animated_sprite.flip_h = true
 					</code></pre>
+          <p>What happens if velocity.x is 0?</p>
 				</section>
 			</section>
 
@@ -198,8 +198,8 @@ elif velocity.x < 0:
 					</ul>
 				</section>
 				<section>
-					<h3>Score Hint</h3>
-					<pre><code data-trim class="language-gdscript">
+					<h3>Updating Score</h3>
+					<pre><code data-trim class="language-python">
 score += 1
 score_label.text = "Score: " + str(score)
 					</code></pre>
@@ -232,6 +232,7 @@ score_label.text = "Score: " + str(score)
 						<li>Nodes build scenes</li>
 						<li>Scripts control behavior</li>
 						<li>Physics makes movement feel real</li>
+            <li>Make it your own with assets, mechanics, and story</li>
 					</ul>
 				</section>
 				<section>

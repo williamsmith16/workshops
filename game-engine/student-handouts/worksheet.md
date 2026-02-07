@@ -67,12 +67,7 @@ How will you know the game is finished?
 
 If something breaks, I will:
 
-- Read the error message \
-- Check the node name I’m referencing \
-- Check indentation \
+- Read the error message
+- Check the node name I'm referencing
+- Check indentation
 - Test after one small change
-
-## 8) Reflection
-
-- Coolest thing I changed today: <br>&nbsp;<br> <span class="blank-line-long"></span>
-- One thing I want to add next: <br>&nbsp;<br> <span class="blank-line-long"></span>

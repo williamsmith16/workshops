@@ -11,7 +11,7 @@ Quick definitions for the core terms used in this workshop.
 
 **Godot:** A free, open-source game engine.
 
-**project:** A folder containing your game’s files (scenes, scripts, art, settings).
+**project:** A folder containing your game's files (scenes, scripts, art, settings).
 
 **scene:** A saved collection of nodes. You can run a scene, reuse it, and place it inside other scenes.
 
@@ -21,11 +21,11 @@ Quick definitions for the core terms used in this workshop.
 
 **script (GDScript):** Code attached to a node to control behavior.
 
-**GDScript:** Godot’s Python-like scripting language.
+**GDScript:** Godot's Python-like scripting language.
 
 **CharacterBody2D:** A node used for 2D characters that move and collide (player movement).
 
-**Area2D:** A node used for detection (pickups, triggers, hitboxes). Often used for coins.
+**Area2D:** A node used for detection (pickups, triggers, hitboxes). Often used for static power-ups.
 
 **CollisionShape2D:** A node that defines the shape used for collisions.
 

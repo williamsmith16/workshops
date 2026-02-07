@@ -18,13 +18,13 @@ node, and the UI score label can be a node.
 
 A scene is a saved collection of nodes. Think of it like a “prefab” or a level.
 
-## "Why doesn’t my game start?"
+## "Why doesn't my game start?"
 
 Common causes:
 
 - The script has an error (check the error output)
-- You edited a node name but didn’t update code
-- You’re running a different scene than you think
+- You edited a node name but didn't update code
+- You're running a different scene than you think
 
 ## "I changed code, but nothing happened"
 
@@ -43,23 +43,23 @@ Usually collision setup:
 - Player is missing a CollisionShape2D
 - Collision is disabled or moved out of place
 
-## "Coins don’t get collected"
+## "Coins don't get collected"
 
 Common causes:
 
 - Coin Area2D has no collision shape
-- Player collider doesn’t overlap the coin’s area
-- The coin signal/overlap code isn’t running
+- Player collider doesn't overlap the coin's area
+- The coin signal/overlap code isn't running
 
 ## "What does flip_h do?"
 
-It mirrors the sprite horizontally. It’s an easy way to face left/right without
+It mirrors the sprite horizontally. It's an easy way to face left/right without
 needing separate art.
 
 ## Web Editor gotchas
 
 - If things feel stuck, refresh and re-import the project
 - Be patient on first load (assets take time)
-- Don’t panic if the file tree takes a moment to appear
+- Don't panic if the file tree takes a moment to appear
 
 Keep answers short and friendly. Add detail only if students ask for more.

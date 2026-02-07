@@ -19,13 +19,13 @@ print_friendly: true
 
 ## Fill In the Blanks
 
-1. A <span class="blank-line-short"></span> is software that helps you build games faster. \
-2. A Godot <span class="blank-line-short"></span> contains all the files for a game. \
-3. A <span class="blank-line-short"></span> is a saved collection of nodes. \
-4. A <span class="blank-line-short"></span> is one building block in Godot. \
-5. The <span class="blank-line-short"></span> shows the node hierarchy. \
-6. A <span class="blank-line-short"></span> is code attached to a node. \
-7. <span class="blank-line-short"></span> is Godot’s scripting language. \
+1. A <span class="blank-line-short"></span> is software that helps you build games faster.
+2. A Godot <span class="blank-line-short"></span> contains all the files for a game.
+3. A <span class="blank-line-short"></span> is a saved collection of nodes.
+4. A <span class="blank-line-short"></span> is one building block in Godot.
+5. The <span class="blank-line-short"></span> shows the node hierarchy.
+6. A <span class="blank-line-short"></span> is code attached to a node.
+7. <span class="blank-line-short"></span> is Godot's scripting language.
 8. <span class="blank-line-short"></span> simulates gravity and movement rules.
 
 <div style="page-break-after: always;"></div>
@@ -35,7 +35,7 @@ print_friendly: true
 - Circle the nodes that are often used for the player: <br>
   `CharacterBody2D` / `Area2D` / `Label`
 
-- Circle the nodes that are often used for coins: <br>
+- Circle the nodes that are often used for static power-ups: <br>
   `Area2D` / `AnimatedSprite2D` / `CollisionShape2D`
 
 - True or False:
