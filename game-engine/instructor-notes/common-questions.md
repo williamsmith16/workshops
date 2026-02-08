@@ -11,12 +11,12 @@ Use these as quick answers during the workshop.
 
 ## "What is a node?"
 
-A node is one building block in Godot. A player can be a node, a coin can be a
+A node is one building block in Godot. A player can be a node, a gem can be a
 node, and the UI score label can be a node.
 
 ## "What is a scene?"
 
-A scene is a saved collection of nodes. Think of it like a “prefab” or a level.
+A scene is a saved collection of nodes. Think of it like a "prefab" or a level.
 
 ## "Why doesn't my game start?"
 
@@ -43,13 +43,13 @@ Usually collision setup:
 - Player is missing a CollisionShape2D
 - Collision is disabled or moved out of place
 
-## "Coins don't get collected"
+## "Gems don't get collected"
 
 Common causes:
 
-- Coin Area2D has no collision shape
-- Player collider doesn't overlap the coin's area
-- The coin signal/overlap code isn't running
+- Gem Area2D has no collision shape
+- Player collider doesn't overlap the gem's area
+- The gem signal/overlap code isn't running
 
 ## "What does flip_h do?"
 

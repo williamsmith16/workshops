@@ -15,7 +15,7 @@ Quick definitions for the core terms used in this workshop.
 
 **scene:** A saved collection of nodes. You can run a scene, reuse it, and place it inside other scenes.
 
-**node:** A single building block in Godot (player, camera, coin, UI label, etc.). Nodes form a tree.
+**node:** A single building block in Godot (player, camera, gem, UI label, etc.). Nodes form a tree.
 
 **Scene Tree:** The hierarchy of nodes in the current scene.
 
@@ -31,7 +31,7 @@ Quick definitions for the core terms used in this workshop.
 
 **physics:** The part of the engine that simulates gravity and collisions.
 
-**signal:** A message/event that nodes can send (like “coin collected”).
+**signal:** A message/event that nodes can send (like "gem collected").
 
 **AnimatedSprite2D:** A node that plays 2D sprite animations.
 

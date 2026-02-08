@@ -14,14 +14,16 @@ You built a tiny platformer in Godot. Here are good next steps.
 Pick one small upgrade:
 
 - Add a second level (new scene)
-- Add sound effects (jump, coin pickup)
+- Add sound effects (jump, gem pickup)
 - Add an enemy that patrols
-- Add a “restart” button when you fall
+- Add a "restart" button when you fall
 - Add a main menu scene
+
+You can find the instructions for how the starter project was made in [build-starter-project.md](../starter-code/build-starter-project.md).
 
 ## 2) Learn More Godot
 
-- Read the official docs: https://docs.godotengine.org/
+- Read the official docs: <https://docs.godotengine.org/>
 - Search terms that help:
   - "Godot 4 CharacterBody2D movement"
   - "Godot signals Area2D"
@@ -31,7 +33,7 @@ Pick one small upgrade:
 
 If you want a fresh start, try:
 
-- A top-down coin collector
+- A top-down gem collector
 - A one-screen dodge game
 - A simple platformer with one enemy
 

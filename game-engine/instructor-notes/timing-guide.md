@@ -12,7 +12,7 @@ section: Instructor Notes
 
 ## 0:00-0:10 - Welcome & Game Engine Icebreaker
 
-- Prompt: "What is one game mechanic you love?" (jump, coins, dash, etc.)
+- Prompt: "What is one game mechanic you love?" (jump, gems, dash, etc.)
 - Set expectations:
   - We will experiment
   - We will make mistakes
@@ -33,7 +33,7 @@ Keep it concrete: point to each panel in the editor.
 
 Primary path (web editor):
 
-- Open https://editor.godotengine.org/releases/latest/
+- Open <https://editor.godotengine.org/releases/latest/>
 - Import `platformer-starter-godot4.zip`
 - Press Play
 
@@ -41,7 +41,7 @@ Verification checklist:
 
 - Player moves left/right
 - Player jumps
-- Coins disappear on touch
+- Gems disappear on touch
 - No score shown yet
 - Character appears idle all the time
 
@@ -50,8 +50,8 @@ Verification checklist:
 Focus points:
 
 - CharacterBody2D is the player
-- CollisionShape2D is “what can collide”
-- Area2D is “detect overlap” (coins)
+- CollisionShape2D is "what can collide"
+- Area2D is "detect overlap" (gems)
 
 Avoid deep math; keep it practical.
 
@@ -64,7 +64,7 @@ Instructor flow:
 - Find the player node
 - Find the AnimatedSprite2D node
 - Open the player script
-- Implement a simple “state” decision:
+- Implement a simple "state" decision:
   - if in air → jump
   - else if moving → move
   - else → idle
@@ -88,23 +88,23 @@ Checkpoint:
 
 ## 1:10-1:25 - Build Task 3: Scoring
 
-Goal: collect coin → score increases and UI updates.
+Goal: collect gem → score increases and UI updates.
 
 Instructor flow:
 
 - Decide where score lives (player vs a game manager node)
 - Add a Label node in UI (if not present)
-- When a coin is collected:
+- When a gem is collected:
   - increment score
   - update label text
 
 Checkpoint:
 
-- Score changes when coins are collected
+- Score changes when gems are collected
 
 ## 1:25-1:30 - If Time: Winner Message + Wrap-Up
 
-- Track coins remaining (count at start, or decrement on pickup)
+- Track gems remaining (count at start, or decrement on pickup)
 - When zero: show "You win!" label
 
 Wrap-up questions:

@@ -47,7 +47,7 @@ Rule:
 
 ## 5) Mission 3: Scoring
 
-Goal: Each coin increases the score.
+Goal: Each gem increases the score.
 
 - My score variable name is: <span class="blank-line-short"></span>
 - My score label node is: <span class="blank-line-short"></span>
@@ -60,7 +60,7 @@ Write the score text you want on screen:
 
 How will you know the game is finished?
 
-- When coins remaining equals: <span class="blank-line-short"></span>
+- When gems remaining equals: <span class="blank-line-short"></span>
 - Winner message text: <span class="blank-line"></span>
 
 ## 7) Debugging Checklist

@@ -32,8 +32,8 @@ By the end of this workshop, every student should be able to:
 - Add simple game features to a starter project:
   - Switch character animation: **idle / move / jump**
   - Flip the character horizontally based on direction faced
-  - Add a score counter when collecting coins
-  - (If time) Show a winner message after all coins are collected
+  - Add a score counter when collecting gems
+  - (If time) Show a winner message after all gems are collected
 
 ## 2. Success Definition
 
@@ -46,10 +46,10 @@ A student is successful if they can say:
 
 ### Primary Path (Recommended)
 
-- Use the **web editor**: https://editor.godotengine.org/releases/latest/
+- Use the **web editor**: <https://editor.godotengine.org/releases/latest/>
   - If you haave a local install of Godot, you can use that instead.
 - Download the starter project zip from this repo:
-  - `game-engine/starter-code/platformer-starter-godot4.zip` (provided by instructor)
+  - `game-engine/starter-code/platformer-starter-godot4.zip` (coming soon)
 
 ### Fallback Path
 

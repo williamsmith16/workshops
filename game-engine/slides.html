@@ -56,7 +56,7 @@
 			<section>
 				<h2>Icebreaker</h2>
 				<p>What is a game mechanic you love?</p>
-				<p><small>(jumping, coins, power-ups, dash, double-jump, etc.)</small></p>
+				<p><small>(jumping, gems, power-ups, dash, double-jump, etc.)</small></p>
 			</section>
 
 			<section>
@@ -73,7 +73,7 @@
 					<p>A tiny 2D platformer</p>
 					<ul>
 						<li>You can move + jump</li>
-						<li>Coins disappear when touched</li>
+						<li>Gems disappear when touched</li>
 						<li>No score yet</li>
 						<li>Character looks idle all the time (for now)</li>
 					</ul>
@@ -95,7 +95,7 @@
 					<ul>
 						<li>Sprite2D / AnimatedSprite2D</li>
 						<li>CharacterBody2D (player movement)</li>
-						<li>Area2D (pickups like coins)</li>
+						<li>Area2D (pickups like gems)</li>
 						<li>CollisionShape2D (hitboxes)</li>
 						<li>CanvasLayer + Label (UI)</li>
 					</ul>
@@ -117,7 +117,7 @@
 					<ul>
 						<li>Player can move left/right</li>
 						<li>Player can jump</li>
-						<li>Coins disappear on touch</li>
+						<li>Gems disappear on touch</li>
 					</ul>
 				</section>
 			</section>
@@ -132,10 +132,10 @@
 					</ul>
 				</section>
 				<section>
-					<h2>Coins</h2>
+					<h2>Gems</h2>
 					<ul>
-						<li>Coins are usually an Area2D</li>
-						<li>On contact: remove the coin</li>
+						<li>Gems are usually an Area2D</li>
+						<li>On contact: remove the gem</li>
 						<li>Today: we'll add scoring on top</li>
 					</ul>
 				</section>
@@ -153,7 +153,7 @@
 				</section>
 				<section>
 					<h3>Changing Animations</h3>
-					<p>Think: velocity + “on the floor”</p>
+					<p>Think: velocity + "on the floor"</p>
 					<pre><code data-trim class="language-python">
 if not is_on_floor():
   animated_sprite.play("jump")
@@ -193,7 +193,7 @@ elif velocity.x < 0:
 					<p>Add scoring</p>
 					<ul>
 						<li>Create a score variable</li>
-						<li>When a coin is collected: +1</li>
+						<li>When a gem is collected: +1</li>
 						<li>Update a UI label</li>
 					</ul>
 				</section>
@@ -211,8 +211,8 @@ score_label.text = "Score: " + str(score)
 					<h2>If Time</h2>
 					<p>Winner message</p>
 					<ul>
-						<li>Track coins remaining</li>
-						<li>When zero: show “You win!”</li>
+						<li>Track gems remaining</li>
+						<li>When zero: show "You win!"</li>
 					</ul>
 				</section>
 				<section>
