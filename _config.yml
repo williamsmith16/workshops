@@ -146,6 +146,10 @@ navigation:
     subnav:
       - title: Setup Guide
         url: /character-sprite-animation/HOW_TO_SETUP
+  - title: AI Playground for Kids
+    url: /ai-playground-for-kids/
+  - title: Sound Design and Foley
+    url: /sound-design-and-foley/
   - title: Advanced Python Coding
     url: /advanced-python/
     subnav:
@@ -191,3 +195,11 @@ defaults:
       path: "advanced-python"
     values:
       workshop: "Advanced Python Coding"
+  - scope:
+      path: "ai-playground-for-kids"
+    values:
+      workshop: "AI Playground for Kids"
+  - scope:
+      path: "sound-design-and-foley"
+    values:
+      workshop: "Sound Design and Foley"
