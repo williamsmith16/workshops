@@ -9,7 +9,7 @@ workshop: JavaScript Basics
 **Audience:** Beginners with little to no programming experience \\
 **Theme:** _"Making computers respond to YOU - your first real programs"_
 
-* [Recording](https://youtu.be/yKh397kxe5I)
+* <a href="https://youtu.be/yKh397kxe5I"><img src="{{ site.baseurl }}/assets/icons/youtube.svg" alt="" style="height:1em;vertical-align:middle;margin-right:4px">Recording</a>
 * [Slides]({{ site.baseurl }}/javascript-basics/slides.html)
 * Resources:
   * [Glossary]({{ site.baseurl }}/javascript-basics/resources/glossary)

@@ -9,7 +9,7 @@ workshop: AI Playground for Kids
 **Audience:** Beginners (ages 13+ due to Google AI Studio EULA restrictions, but younger kids can join with adult supervision)  
 **Theme:** _"Using Google AI Studio to design and build a simple game or app"_
 
-* [Recording](https://youtu.be/vovbTm6eYG8)
+* <a href="https://youtu.be/vovbTm6eYG8"><img src="{{ site.baseurl }}/assets/icons/youtube.svg" alt="" style="height:1em;vertical-align:middle;margin-right:4px">Recording</a>
 
 ## Workshop Overview
 

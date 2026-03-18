@@ -9,7 +9,7 @@ workshop: Sound Design and Foley
 **Audience:** Beginners (ages ~10-14)  
 **Theme:** _"Building cinematic sound effects from everyday objects"_
 
-* [Recording](https://youtu.be/D7kVFSiuaKY)
+* <a href="https://youtu.be/D7kVFSiuaKY"><img src="{{ site.baseurl }}/assets/icons/youtube.svg" alt="" style="height:1em;vertical-align:middle;margin-right:4px">Recording</a>
 * [Slides](https://docs.google.com/presentation/d/1fKpvt-56DZ06cLiV98nD6YaR5e6khpFfQhehl-v4NvI/edit?usp=sharing) 
 
 ## Workshop Overview

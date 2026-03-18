@@ -9,7 +9,7 @@ workshop: Python Coding Introduction
 **Audience:** Beginners with little to no programming experience \
 **Theme:** _"Talking to your computer - your first Python conversations"_
 
-* [Recording](https://youtu.be/QHNXIwMVYZA)
+* <a href="https://youtu.be/QHNXIwMVYZA"><img src="{{ site.baseurl }}/assets/icons/youtube.svg" alt="" style="height:1em;vertical-align:middle;margin-right:4px">Recording</a>
 * [Slides]({{ site.baseurl }}/python-intro/slides.html)
 * Resources:
   * [Glossary]({{ site.baseurl }}/python-intro/resources/glossary)
